@@ -1,5 +1,5 @@
 {
-    "name": "amirtheahmed/yengec_sdk",
+    "name": "yengec/yengec_sdk",
     "description": "A PHP wrapper for using Yengeç's API",
     "keywords": [
         "yengeç", "api", "client", "sdk", "wrapper", "php"
