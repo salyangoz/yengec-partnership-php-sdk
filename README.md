@@ -6,8 +6,8 @@
 <p class="has-line-data" data-line-start="9" data-line-end="10">To install via composer, run this command</p>
 <pre><code class="has-line-data" data-line-start="11" data-line-end="13" class="language-sh">composer require yengec/yengec_sdk
 </code></pre>
-<p class="has-line-data" data-line-start="13" data-line-end="14">Then use Autoload</p>
+<p class="has-line-data" data-line-start="13" data-line-end="14">Then use composer's autoload</p>
 <pre><code class="has-line-data" data-line-start="15" data-line-end="17" class="language-sh">require_once(<span class="hljs-string">'vendor/autoload.php'</span>);
 </code></pre>
 <h2 class="code-line" data-line-start=17 data-line-end=18 ><a id="Usage_17"></a>Usage</h2>
-<p class="has-line-data" data-line-start="18" data-line-end="19">You can code samples in examples folder.</p>
+<p class="has-line-data" data-line-start="18" data-line-end="19">You can find code samples in examples folder.</p>
