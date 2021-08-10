@@ -1,0 +1,45 @@
+{
+    "name": "amirtheahmed/yengec_sdk",
+    "description": "A PHP wrapper for using Yengeç's API",
+    "keywords": [
+        "yengeç", "api", "client", "sdk", "wrapper", "php"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amir Ahmed",
+            "email": "amirtheahmed@gmail.com",
+            "homepage": "https://yengec.co/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Yengec\\": "src/Yengec/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Yengec\\Tests\\": "tests/Yengec/Tests/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "php": "^8",
+        "php-http/client-common": "^2.3",
+        "php-http/discovery": "^1.12",
+        "psr/http-client": "^1.0",
+        "psr/http-client-implementation": "^1.0",
+        "psr/http-factory": "^1.0",
+        "symfony/options-resolver": "^5.2"
+    },
+    "require-dev": {
+        "laminas/laminas-diactoros": "^2.4",
+        "php-http/curl-client": "^2.1",
+        "php-http/mock-client": "^1.4",
+        "phpunit/phpunit": "^9.5",
+        "symfony/var-dumper": "^5.1"
+    }
+}

@@ -1,0 +1,62 @@
+{
+  "data": {
+    "id": 565,
+    "card_id": null,
+    "price": "480",
+    "channel": "kolaybi",
+    "promotion": {
+      "used_month": "",
+      "remaining_month": "",
+      "discounted_price": "",
+      "discounted_readable": "",
+      "promotion_code": ""
+    },
+    "created_at": "2021-08-05 15:30:41",
+    "renewal_at": "2022-08-05",
+    "deleted_at": null,
+    "is_expired": false,
+    "renew_month": "12",
+    "recoverable": false,
+    "price_readable": "480,00 ₺",
+    "payment_method": "partnership",
+    "promotion_code": null,
+    "channel_readable": "Kolaybi",
+    "integration_count": 0,
+    "cancelable": false,
+    "cancelable_reason": null,
+    "renewal_at_readable": "05.08.2022",
+    "not_recoverable_reason": "Kolaybi üzerinden açılan abonelikler kurtarılamaz.",
+    "payable_with_credit_card": false,
+    "package": {
+      "data": {
+        "id": 1,
+        "name": "Pazaryeri Entegrasyonları I",
+        "code": "marketplaces",
+        "sort": 1,
+        "marketplaces": [
+          "hepsiburada",
+          "n11",
+          "gittigidiyor",
+          "akakce",
+          "amazon",
+          "eptt"
+        ],
+        "prices": [
+          {
+            "price": 49.9,
+            "renew_month": 1,
+            "readable_price": "49,90 ₺"
+          },
+          {
+            "price": 480,
+            "renew_month": 12,
+            "readable_price": "480,00 ₺"
+          }
+        ],
+        "unlimited": true,
+        "sellable_by_partner": true,
+        "payment_partner": null
+      }
+    }
+  }
+}

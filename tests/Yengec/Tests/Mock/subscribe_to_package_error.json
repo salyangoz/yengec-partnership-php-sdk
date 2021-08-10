@@ -1,0 +1,8 @@
+{
+  "message": "Doğrulama başarısız : Referans değeri geçersiz.",
+  "error": {
+    "channel": [
+      "Referans değeri geçersiz."
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "message": "Doğrulama başarısız : user.email daha önceden kayıt edilmiş.",
+    "error": {
+    "user.email": [
+        "user.email daha önceden kayıt edilmiş."
+    ]
+    }
+}

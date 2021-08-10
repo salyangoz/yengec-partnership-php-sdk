@@ -1,0 +1,47 @@
+{
+  "data": {
+    "user": {
+      "id": 132,
+      "name": "John Doe",
+      "email": "demo@demo.com",
+      "mobile": null,
+      "provider": null,
+      "is_email_verified": false,
+      "is_mobile_verified": true,
+      "mobile_notification": false,
+      "channel": "Demo",
+      "has_password": false,
+      "language": "tr",
+      "created_at": "2021-08-04T11:19:47.000000Z"
+    },
+    "company": {
+      "id": 23,
+      "parasut_id": "33",
+      "accounting_id": "Demo Company",
+      "accounting_url": "https://uygulama.heroku-staging.parasut.com",
+      "name": "Demo A.Ş.",
+      "tax_number": null,
+      "tax_office": null,
+      "email": null,
+      "phone": null,
+      "logo_url": null,
+      "address": "Demo Sok. No: 3",
+      "city": "İstanbul",
+      "website_url": null,
+      "settings": null,
+      "channel": "Demo",
+      "accounting": "parasut",
+      "role": null,
+      "e_invoicing_activated_at": null,
+      "abilities": {
+        "invoice": false,
+        "e_invoice": false,
+        "mark_as_paid": false,
+        "invoice_category": false,
+        "customer_category": false,
+        "manage_subscription": false
+      }
+    },
+    "token": "token"
+  }
+}
